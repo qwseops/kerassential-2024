@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;" lang="en"><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <title>Home</title>
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="Home.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 5.5.0, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    
+    
+    
+    
+    
+    
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "Healthy Toe Nail Solution"
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="Home">
+    <meta property="og:description" content="">
+    <meta property="og:type" content="website">
+  <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
+  <body data-home-page="Home.php" data-home-page-title="Home" class="u-body u-xl-mode" data-lang="en"><header class="u-clearfix u-custom-color-4 u-header u-header" id="sec-c1ba"><div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-sheet-1">
+        <nav class="u-menu u-menu-one-level u-offcanvas u-menu-1">
+          <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; text-transform: uppercase; font-weight: 500;">
+            <a class="u-button-style u-custom-active-border-color u-custom-active-color u-custom-border u-custom-border-color u-custom-borders u-custom-color u-custom-hover-border-color u-custom-hover-color u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#" style="padding: 4px 6px; font-size: calc(1em + 8px);">
+              <svg class="u-svg-link" viewBox="0 0 24 24"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu-hamburger"></use></svg>
+              <svg class="u-svg-content" version="1.1" id="menu-hamburger" viewBox="0 0 16 16" x="0px" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><g><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</g></svg>
+            </a>
+          </div>
+          <div class="u-custom-menu u-nav-container">
+            <ul class="u-nav u-spacing-2 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-border-active-palette-1-base u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-custom-color-2 u-nav-link u-text-active-custom-color-1 u-text-grey-90 u-text-hover-black" href="Home.php" style="padding: 10px 30px;">Home</a>
+</li><li class="u-nav-item"><a class="u-border-active-palette-1-base u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-custom-color-2 u-nav-link u-text-active-custom-color-1 u-text-grey-90 u-text-hover-black" href="Terms.php" style="padding: 10px 30px;">Terms</a>
+</li><li class="u-nav-item"><a class="u-border-active-palette-1-base u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-custom-color-2 u-nav-link u-text-active-custom-color-1 u-text-grey-90 u-text-hover-black" href="Privacy.php" style="padding: 10px 30px;">Privacy</a>
+</li><li class="u-nav-item"><a class="u-border-active-palette-1-base u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-custom-color-2 u-nav-link u-text-active-custom-color-1 u-text-grey-90 u-text-hover-black" href="DMCA.php" style="padding: 10px 30px;">DMCA</a>
+</li></ul>
+          </div>
+          <div class="u-custom-menu u-nav-container-collapse">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-inner-container-layout u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.php">Home</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Terms.php">Terms</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Privacy.php">Privacy</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="DMCA.php">DMCA</a>
+</li></ul>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav>
+        <h1 class="u-align-center-xs u-align-left-lg u-align-left-md u-align-left-sm u-align-left-xl u-text u-text-1">FDA APPROVED, GMP CERTIFIED <br>
+        </h1>
+      </div></header>
+    <section class="u-clearfix u-custom-color-2 u-section-1" id="sec-d584">
+      <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-xl u-valign-middle-xs u-sheet-1">
+        <div class="u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-1">
+          <div class="u-gutter-0 u-layout">
+            <div class="u-layout-row">
+              <div class="u-align-center u-container-style u-layout-cell u-opacity u-opacity-85 u-size-30 u-layout-cell-1">
+                <div class="u-container-layout u-container-layout-1">
+                  <h1 class="u-align-center-md u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-xl u-text u-text-1">
+                    <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-custom-color-1 u-btn-1" href="https://official-toe-nail-fungus.herokuapp.com/get.php">KERASSENTIALS<br>
+                    </a>
+                  </h1>
+                  <h1 class="u-align-left u-text u-text-2"> Your order today is protected by my iron-clad&nbsp;<b>100% money-back guarantee</b>.<b></b><b></b><b>&nbsp; </b>
+                    <br>
+                    <br><b>Kerassentials&nbsp;</b>is&nbsp;<b>unlike anything</b>&nbsp;you’ve ever tried or experienced in your life before.<br>
+                    <br> We stand by our promise to give you <span style="font-weight: 700;">the best possible results,</span> and 
+that's why we're offering a <span style="font-weight: 700;">30-day supply of Kerassential</span>s for just <span style="font-weight: 700;">$49</span>, a small price to pay for a <span style="font-weight: 700;">lifetime of comfort and confidence.</span>
+                    <br>
+                    <br> We are so confident in the effectiveness of <span style="font-weight: 700;">Kerassentials </span>that we're willing to back it up with a <span style="font-weight: 700;">100% satisfaction guarantee for the next 180 days. </span>That's half a year of fungus-free living with flawless nails and skin.<br>
+                    <br>So why wait? Order now and experience the life-changing benefits of <span style="font-weight: 700;">Kerassentials </span>for yourself.
+                  </h1>
+                  <a href="https://official-toe-nail-fungus.herokuapp.com/get.php" class="u-border-none u-btn u-button-style u-custom-color-1 u-hover-grey-60 u-btn-2"> YES, GIVE ME MY DISCOUNT LINK!</a>
+                  <a href="https://official-toe-nail-fungus.herokuapp.com/get.php" class="u-btn u-button-style u-none u-text-custom-color-1 u-text-hover-custom-color-3 u-btn-3">OFFICIAL WEBSITE&nbsp;<span class="u-icon u-text-custom-color-1"><svg class="u-svg-content" viewBox="0 -32 426.66667 426" style="width: 1em; height: 1em;"><path d="m213.332031 181.667969c0 4.265625-1.277343 8.53125-3.625 11.730469l-106.667969 160c-3.839843 5.761718-10.238281 9.601562-17.707031 9.601562h-64c-11.730469 0-21.332031-9.601562-21.332031-21.332031 0-4.269531 1.28125-8.535157 3.625-11.734375l98.773438-148.265625-98.773438-148.269531c-2.34375-3.199219-3.625-7.464844-3.625-11.730469 0-11.734375 9.601562-21.335938 21.332031-21.335938h64c7.46875 0 13.867188 3.839844 17.707031 9.601563l106.667969 160c2.347657 3.199218 3.625 7.464844 3.625 11.734375zm0 0"></path><path d="m426.667969 181.667969c0 4.265625-1.28125 8.53125-3.628907 11.730469l-106.664062 160c-3.839844 5.761718-10.242188 9.601562-17.707031 9.601562h-64c-11.734375 0-21.335938-9.601562-21.335938-21.332031 0-4.269531 1.28125-8.535157 3.628907-11.734375l98.773437-148.265625-98.773437-148.269531c-2.347657-3.199219-3.628907-7.464844-3.628907-11.730469 0-11.734375 9.601563-21.335938 21.335938-21.335938h64c7.464843 0 13.867187 3.839844 17.707031 9.601563l106.664062 160c2.347657 3.199218 3.628907 7.464844 3.628907 11.734375zm0 0"></path></svg><img></span>
+                  </a>
+                </div>
+              </div>
+              <div class="u-container-style u-layout-cell u-size-30 u-layout-cell-2">
+                <div class="u-container-layout u-container-layout-2">
+                  <img class="u-expanded-height-lg u-expanded-height-xl u-image u-image-contain u-image-default u-image-1" src="images/11.png" alt="" data-image-width="1350" data-image-height="1314" data-href="https://official-toe-nail-fungus.herokuapp.com/get.php">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-align-center u-clearfix u-container-align-center-sm u-container-align-center-xs u-custom-color-1 u-section-2" id="carousel_a4e8">
+      <div class="u-clearfix u-sheet u-valign-bottom-xs u-valign-middle-xl u-sheet-1">
+        <h1 class="u-align-center u-text u-text-1"> Experience the Life-Changing Effects of Kerassentials at an Amazing Discount</h1>
+      </div>
+    </section>
+    <section class="u-align-center u-clearfix u-custom-color-2 u-section-3" id="sec-c369">
+      <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xl u-sheet-1">
+        <img class="u-expanded-width-xs u-image u-image-contain u-image-default u-image-1" src="images/k2.PNG" alt="" data-image-width="1181" data-image-height="846" data-href="https://official-toe-nail-fungus.herokuapp.com/get.php">
+      </div>
+    </section>
+    <section class="u-align-center u-clearfix u-container-align-center-sm u-container-align-center-xs u-custom-color-1 u-section-4" id="carousel_9a51">
+      <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-sm u-sheet-1">
+        <h1 class="u-align-center u-text u-text-1"> People Who Tried Kerassentials Say</h1>
+      </div>
+    </section>
+    <section class="u-align-left u-clearfix u-custom-color-2 u-section-5" id="sec-9f52">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div id="carousel-82ff" data-interval="5000" data-u-ride="carousel" class="u-carousel u-slider u-slider-1">
+          <ol class="u-absolute-hcenter u-carousel-indicators u-carousel-indicators-1">
+            <li data-u-target="#carousel-82ff" class="u-active u-grey-30 u-shape-circle" data-u-slide-to="0" style="width: 10px; height: 10px;"></li>
+            <li data-u-target="#carousel-82ff" class="u-grey-30 u-shape-circle" data-u-slide-to="1" style="width: 10px; height: 10px;"></li>
+          </ol>
+          <div class="u-carousel-inner" role="listbox">
+            <div class="u-active u-align-center u-carousel-item u-container-style u-slide">
+              <div class="u-container-layout u-valign-top u-container-layout-1"><span class="u-custom-color-1 u-icon u-icon-rounded u-text-white u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 95.333 95.332" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-e9a0"></use></svg><svg class="u-svg-content" viewBox="0 0 95.333 95.332" x="0px" y="0px" id="svg-e9a0" style="enable-background:new 0 0 95.333 95.332;"><g><g><path d="M30.512,43.939c-2.348-0.676-4.696-1.019-6.98-1.019c-3.527,0-6.47,0.806-8.752,1.793    c2.2-8.054,7.485-21.951,18.013-23.516c0.975-0.145,1.774-0.85,2.04-1.799l2.301-8.23c0.194-0.696,0.079-1.441-0.318-2.045    s-1.035-1.007-1.75-1.105c-0.777-0.106-1.569-0.16-2.354-0.16c-12.637,0-25.152,13.19-30.433,32.076    c-3.1,11.08-4.009,27.738,3.627,38.223c4.273,5.867,10.507,9,18.529,9.313c0.033,0.001,0.065,0.002,0.098,0.002    c9.898,0,18.675-6.666,21.345-16.209c1.595-5.705,0.874-11.688-2.032-16.851C40.971,49.307,36.236,45.586,30.512,43.939z"></path><path d="M92.471,54.413c-2.875-5.106-7.61-8.827-13.334-10.474c-2.348-0.676-4.696-1.019-6.979-1.019    c-3.527,0-6.471,0.806-8.753,1.793c2.2-8.054,7.485-21.951,18.014-23.516c0.975-0.145,1.773-0.85,2.04-1.799l2.301-8.23    c0.194-0.696,0.079-1.441-0.318-2.045c-0.396-0.604-1.034-1.007-1.75-1.105c-0.776-0.106-1.568-0.16-2.354-0.16    c-12.637,0-25.152,13.19-30.434,32.076c-3.099,11.08-4.008,27.738,3.629,38.225c4.272,5.866,10.507,9,18.528,9.312    c0.033,0.001,0.065,0.002,0.099,0.002c9.897,0,18.675-6.666,21.345-16.209C96.098,65.559,95.376,59.575,92.471,54.413z"></path>
+</g>
+</g></svg>
+              
+              
+            </span>
+                <p class="u-align-center u-large-text u-text u-text-default u-text-variant u-text-1"> "​After trying countless products to eliminate my foot fungus, I was losing hope. I even resorted to having one of my nails removed, but to no avail - the fungus kept coming back. That's when I stumbled upon Kerassentials, and it's been a game-changer."</p>
+                <h4 class="u-align-center u-text u-text-2">Dane Louiy </h4>
+              </div>
+            </div>
+            <div class="u-align-center u-carousel-item u-container-style u-expanded-width-lg u-expanded-width-xl u-slide">
+              <div class="u-container-layout u-container-layout-2"><span class="u-custom-color-1 u-icon u-icon-rounded u-text-white u-icon-2"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 95.333 95.332" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-8910"></use></svg><svg class="u-svg-content" viewBox="0 0 95.333 95.332" x="0px" y="0px" id="svg-8910" style="enable-background:new 0 0 95.333 95.332;"><g><g><path d="M30.512,43.939c-2.348-0.676-4.696-1.019-6.98-1.019c-3.527,0-6.47,0.806-8.752,1.793    c2.2-8.054,7.485-21.951,18.013-23.516c0.975-0.145,1.774-0.85,2.04-1.799l2.301-8.23c0.194-0.696,0.079-1.441-0.318-2.045    s-1.035-1.007-1.75-1.105c-0.777-0.106-1.569-0.16-2.354-0.16c-12.637,0-25.152,13.19-30.433,32.076    c-3.1,11.08-4.009,27.738,3.627,38.223c4.273,5.867,10.507,9,18.529,9.313c0.033,0.001,0.065,0.002,0.098,0.002    c9.898,0,18.675-6.666,21.345-16.209c1.595-5.705,0.874-11.688-2.032-16.851C40.971,49.307,36.236,45.586,30.512,43.939z"></path><path d="M92.471,54.413c-2.875-5.106-7.61-8.827-13.334-10.474c-2.348-0.676-4.696-1.019-6.979-1.019    c-3.527,0-6.471,0.806-8.753,1.793c2.2-8.054,7.485-21.951,18.014-23.516c0.975-0.145,1.773-0.85,2.04-1.799l2.301-8.23    c0.194-0.696,0.079-1.441-0.318-2.045c-0.396-0.604-1.034-1.007-1.75-1.105c-0.776-0.106-1.568-0.16-2.354-0.16    c-12.637,0-25.152,13.19-30.434,32.076c-3.099,11.08-4.008,27.738,3.629,38.225c4.272,5.866,10.507,9,18.528,9.312    c0.033,0.001,0.065,0.002,0.099,0.002c9.897,0,18.675-6.666,21.345-16.209C96.098,65.559,95.376,59.575,92.471,54.413z"></path>
+</g>
+</g></svg>
+              
+              
+            </span>
+                <p class="u-align-center u-large-text u-text u-text-default u-text-variant u-text-3">"​I'm still in disbelief at how effective it has been in treating my foot fungus. It's truly remarkable! The itching and foul smell that I've been dealing with for years disappeared in no time, and my feet are now healthy and fungus-free."</p>
+                <h4 class="u-align-center u-text u-text-4"><b>Riley Harrison</b>
+                  <br>
+                </h4>
+              </div>
+            </div>
+          </div>
+          <a class="u-absolute-vcenter-lg u-absolute-vcenter-md u-absolute-vcenter-sm u-absolute-vcenter-xl u-carousel-control u-carousel-control-prev u-text-grey-30 u-carousel-control-1" href="#carousel-82ff" role="button" data-u-slide="prev">
+            <span aria-hidden="true">
+              <svg viewBox="0 0 477.175 477.175"><path d="M145.188,238.575l215.5-215.5c5.3-5.3,5.3-13.8,0-19.1s-13.8-5.3-19.1,0l-225.1,225.1c-5.3,5.3-5.3,13.8,0,19.1l225.1,225
+                    c2.6,2.6,6.1,4,9.5,4s6.9-1.3,9.5-4c5.3-5.3,5.3-13.8,0-19.1L145.188,238.575z"></path></svg>
+            </span>
+            <span class="sr-only">+Previous</span>
+          </a>
+          <a class="u-absolute-vcenter-lg u-absolute-vcenter-md u-absolute-vcenter-sm u-absolute-vcenter-xl u-carousel-control u-carousel-control-next u-text-grey-30 u-carousel-control-2" href="#carousel-82ff" role="button" data-u-slide="next">
+            <span aria-hidden="true">
+              <svg viewBox="0 0 477.175 477.175"><path d="M360.731,229.075l-225.1-225.1c-5.3-5.3-13.8-5.3-19.1,0s-5.3,13.8,0,19.1l215.5,215.5l-215.5,215.5
+                    c-5.3,5.3-5.3,13.8,0,19.1c2.6,2.6,6.1,4,9.5,4c3.4,0,6.9-1.3,9.5-4l225.1-225.1C365.931,242.875,365.931,234.275,360.731,229.075z"></path></svg>
+            </span>
+            <span class="sr-only">+Next</span>
+          </a>
+        </div>
+      </div>
+    </section>
+    <section class="u-align-center u-clearfix u-container-align-center-sm u-container-align-center-xs u-custom-color-1 u-section-6" id="carousel_523e">
+      <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xl u-sheet-1">
+        <h1 class="u-align-center u-text u-text-1"> Frequently Asked Questions</h1>
+      </div>
+    </section>
+    <section class="u-clearfix u-section-7" id="sec-368d">
+      <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-xl u-sheet-1">
+        <h1 class="u-align-left u-text u-text-1">
+          <span style="font-weight: 700;">1. So what is Kerassentials, and how does it work again? </span>
+          <br>
+          <br> Kerassentials packs a powerful punch with its unique blend of skin-nourishing vitamins and oils. By applying it daily after your shower, you give your nail bed the boost it needs to support healthy skin regeneration. Our specially curated ingredients work together to provide complete care for your nails, ensuring their health and vitality in multiple ways.<br>
+          <br>
+          <span style="font-weight: 700;">2. When can I see results? </span>
+          <br>
+          <br>I know you are excited to finally rid this annoying fungus, so I can tell that you start noticing improvements immediately. Because your toenails will look more alive. The itchiness will be soothed. And within the first weeks you should be noticing new healthy pink nails growing out to replace the damaged areas. But I can tell you the biggest change will be in your confidence seeing yourself finally beat this thing that has been haunting you for so long. <br>
+          <br>
+          <span style="font-weight: 700;">3. How does the guarantee work again? </span>
+          <br>
+          <br> We understand how frustrating and annoying dealing with nail fungus can be. That's why we're thrilled to tell you that you can start seeing results almost immediately after using Kerassentials. Within the first few applications, you'll notice your toenails looking healthier and more vibrant, while the itchiness and discomfort will be relieved. In just a few short weeks, you'll begin to see new, healthy pink nails growing out to replace the damaged areas. But the most significant transformation will be in your confidence, as you finally conquer this long-standing issue that has been holding you back.<br>
+          <br>
+          <span style="font-weight: 700;">4. Ok I am ready to make my order. What now? </span>
+          <span style="font-weight: 700;">
+            <br>
+          </span>
+          <br> To start your journey towards healthier, fungus-free nails, simply select one of the packages displayed below and complete your secure order. We highly recommend acting fast, as our stock is limited and can sell out quickly. Our most popular option is the 6-bottle package, providing ample supply to ensure you have enough Kerassentials for the duration of your treatment.
+        </h1>
+        <a href="https://official-toe-nail-fungus.herokuapp.com/get.php" class="u-border-none u-btn u-button-style u-custom-color-1 u-hover-grey-60 u-btn-1"> YES, GIVE ME MY DISCOUNT LINK!</a>
+      </div>
+    </section>
+    
+    
+    <footer class="u-align-center u-clearfix u-custom-color-2 u-footer u-footer" id="sec-8737"><div class="u-clearfix u-sheet u-sheet-1">
+        <img class="u-image u-image-default u-image-1" src="images/kfaflafa.PNG" alt="" data-image-width="917" data-image-height="263">
+        <p class="u-align-center-xs u-custom-font u-font-arial u-small-text u-text u-text-custom-color-3 u-text-variant u-text-1"> Copyright<span style="font-weight: 400;"> ©</span> 2023 <b>Kerassentials</b> | All Rights Reser​ved&nbsp; &nbsp;&nbsp;
+        </p>
+      </div></footer>
+    <section class="u-backlink u-clearfix u-grey-80">
+      <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
+        <span>Website Templates</span>
+      </a>
+      <p class="u-text">
+        <span>created with</span>
+      </p>
+      <a class="u-link" href="" target="_blank">
+        <span>Website Builder Software</span>
+      </a>. 
+    </section><span style="height: 64px; width: 64px; margin-left: 0px; margin-right: auto; margin-top: 0px; background-image: none; right: 55px; bottom: 40px; padding: 16px;" class="u-back-to-top u-custom-color-1 u-icon u-icon-circle u-opacity u-opacity-85" data-href="#">
+        <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 551.13 551.13"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-1d98"></use></svg>
+        <svg class="u-svg-content" enable-background="new 0 0 551.13 551.13" viewBox="0 0 551.13 551.13" xmlns="http://www.w3.org/2000/svg" id="svg-1d98"><path d="m275.565 189.451 223.897 223.897h51.668l-275.565-275.565-275.565 275.565h51.668z"></path></svg>
+    </span>
+  
+</body></html>
