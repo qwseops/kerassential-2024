@@ -1,5 +1,5 @@
 <?php
 
-header("Location:https://pushnet.site/kerassentials/product/kerassentials")
+header("Location:https://www.pushnet.site/supplements/product/kerassentials")
 
 ?>
