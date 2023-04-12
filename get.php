@@ -1,4 +1,4 @@
-<!-- Google tag (gtag.js) -->
+<head><!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11141310153"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -12,3 +12,4 @@
 header("Location:https://vclit.com/chummyburn")
 
 ?>
+</head>
